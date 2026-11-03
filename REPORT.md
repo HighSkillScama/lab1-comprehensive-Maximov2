@@ -39,7 +39,7 @@
 
 Модель ветвления: `main` (стабильная), `develop` (интеграционная), 
 `feature/*` (изолированные задачи).  
-Репозиторий: [ссылка на ваш репозиторий](https://github.com/ваш-ник/lab1-comprehensive-Фамилия).
+Репозиторий: (https://github.com/HighSkillScama/lab1-comprehensive-Maximov2).
 
 ### 3.2. Контроль доступа
 
